@@ -1,0 +1,4 @@
+﻿Test case id,test scenario id,test case steps ,input data ,expected result ,actual result,pass,fail,not executable,comments,defect id
+Login,Login to www.excell.com,Application Must Login,High,yes,,,,,,
+Logout,come to home page,pplication,Low,No,,,,,,
+Register,register to www.excell.com,Application Must Register,High,yes,,,,,,
